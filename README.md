@@ -7,4 +7,4 @@
 
 Built using PHP and MySql
 
-Followed this tutorial to complete: https://www.taniarascia.com/create-a-simple-database-app-connecting-to-mysql-with-php/
+Followed [this](https://www.taniarascia.com/create-a-simple-database-app-connecting-to-mysql-with-php/) tutorial to complete 
