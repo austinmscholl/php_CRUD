@@ -5,6 +5,6 @@
 * Update users
 * Delete users
 
-Built using PHP and MySql
+Built using PHP, MySql and MAMP
 
 Followed [this](https://www.taniarascia.com/create-a-simple-database-app-connecting-to-mysql-with-php/) tutorial to complete 
